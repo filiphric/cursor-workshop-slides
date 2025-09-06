@@ -2,8 +2,8 @@
 layout: cover
 ---
 
-# A.I. tools workshop
-Practical Test Automation Workflows
+#  Test Automation <br/> Workflows with  Cursor
+a workshop by Filip Hric
 
 ---
 layout: image-right
