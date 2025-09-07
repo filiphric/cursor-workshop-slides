@@ -2,6 +2,9 @@
 layout: cover
 ---
 
+<InstallRepo class="absolute top-54 left-11 w-[600px]" />
+
+
 #  Test Automation <br/> Workflows with  Cursor
 a workshop by Filip Hric
 
@@ -9,6 +12,8 @@ a workshop by Filip Hric
 layout: image-right
 image: /small_square.png
 ---
+
+<InstallRepo />
 
 # Hello! 👋
 
@@ -19,6 +24,8 @@ image: /small_square.png
 ---
 layout: two-cols
 ---
+
+<InstallRepo />
 
 # Workshop form
 
@@ -33,6 +40,9 @@ layout: two-cols
 ---
 layout: default
 ---
+
+<InstallRepo />
+
 # Workshop form - demos
 
 - code example, short presentation
@@ -43,6 +53,9 @@ layout: default
 ---
 layout: default
 ---
+
+<InstallRepo />
+
 # Workshop form - practical challenge
 - you’ll find a challenge in the materials folder
 - get into experimental mode
@@ -51,6 +64,9 @@ layout: default
 ---
 layout: default
 ---
+
+<InstallRepo />
+
 # Workshop form - Q&A
 - Q&A continually
 - don't hesitate to ask for help
@@ -61,6 +77,8 @@ layout: default
 layout: default
 ---
 
+<InstallRepo />
+
 # Tools that we’ll be using
 
 - Cursor
@@ -68,6 +86,29 @@ layout: default
 - Playwright
 - Claude Code
 ...and more
+
+---
+layout: default
+---
+
+<InstallRepo />
+
+# App under test
+
+![Trello app](/trello_app.png){class="w-3/5 mx-auto neo-block"}
+
+---
+layout: default
+---
+
+<InstallRepo />
+
+# Extensions
+- In tools, type "Show recommended extensions"
+- Playwright extension essential
+- Playwright resets data before test
+- App is ran automatically with Playwright
+- `npm run app` to run the app separately
 
 ---
 layout: default
@@ -84,9 +125,3 @@ layout: default
 | #3 - Rules and workflows | 1:50 - 2:10 | 2:10 - 2:30 |
 | #4 - MCP Basics | 2:30 - 2:50 | 2:50 - 3:10 |
 | #5 - Claude Code | 3:10 - 3:30 | --- |
-
----
-layout: default
----
-
-# Project
