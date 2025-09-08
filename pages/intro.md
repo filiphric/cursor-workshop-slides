@@ -79,6 +79,19 @@ layout: default
 
 <InstallRepo />
 
+# Workshop requirements
+
+- Basic knowledge of:
+  - TypeScript
+  - Playwright
+  - Git
+
+---
+layout: default
+---
+
+<InstallRepo />
+
 # Tools that we’ll be using
 
 - Cursor
